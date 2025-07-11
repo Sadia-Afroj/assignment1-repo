@@ -111,6 +111,7 @@ margin: 62px 600px 62px 0px;
 .flex-box .raleway{
     color:#252432;
 }
+
 /* section3 */
 .card{
     display: flex;
@@ -155,4 +156,27 @@ ul li a{
     text-decoration: none;
     color: #252432;
     margin: 15px;
+}
+section h2{
+    font-size:42px ;
+    font-weight: bold;
+    text-align: center;
+}
+.sadia{
+    display: flex;
+align-items: center;
+justify-content: space-around;
+margin: 50px 150px;
+}
+.afroj{
+    border: 0cap solid;
+    border-radius: 20px;
+    background-color:white;
+    padding: 20px;
+    margin: 10px;
+}
+   
+
+.primary{
+display: flex;
 }
